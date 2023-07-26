@@ -153,3 +153,9 @@ dmypy.json
 cython_debug/
 
 .idea/
+
+# Pants workspace files
+/.pants.*
+/dist/
+/.pids
+
